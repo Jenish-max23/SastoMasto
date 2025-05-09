@@ -1,0 +1,483 @@
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\XanderUI.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Collections.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\Muhammad Shafique\Documents\Visual Studio 2017\Projects\FastFood\FastFood\obj\Debug\FastFood.csprojAssemblyReference.cache
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe.config
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\FastFood.pdb
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.exe
+D:\Downloads\FastFood\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Collections.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\FastFood\obj\Debug\FastFood.pdb
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\FastFood.exe.config
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\FastFood.exe
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\FastFood.pdb
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Form2.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.exe
+F:\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.pdb
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\FastFood.exe.config
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\FastFood.exe
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\FastFood.pdb
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Form2.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.exe
+F:\backup fastfood\FastFood-20231206T024934Z-001\FastFood\FastFood\obj\Debug\FastFood.pdb
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Form2.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.exe
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.pdb
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\FastFood.exe.config
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\FastFood.exe
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\FastFood.pdb
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+F:\backup fastfood\backup\Sato Masto\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Form2.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Form2.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Form2.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\12_17_2023\backup 2_21\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Form1.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Form2.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\test\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\bin\Debug\Database2.accdb
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.placeOder.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.notification.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.settings.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.Help.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.main.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.SplashScreen.resources
+C:\Users\sjeni\OneDrive\Desktop\Last Day\FastFood\FastFood\obj\Debug\FastFood.GridViews.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\Database2.accdb
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\FastFood.exe.config
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\FastFood.pdb
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.csproj.AssemblyReference.cache
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Customers.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Delivery.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Driver_Payment.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Eat_In.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.GridViews.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.main.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.SplashScreen.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Help.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Home.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.notification.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.placeOder.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Properties.Resources.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.settings.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.Take_Away.resources
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.csproj.GenerateResource.cache
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.csproj.CopyComplete
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.exe
+C:\Users\sjeni\OneDrive\Desktop\3RD PROJECT\FINAL\FastFood\FastFood\obj\Debug\FastFood.pdb
